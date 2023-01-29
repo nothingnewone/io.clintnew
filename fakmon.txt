@@ -1,6 +1,6 @@
 {
-	"adstatus": false,
-	"specificad": false,
+	"adstatus": true,
+	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
@@ -16,7 +16,7 @@
 		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
 	},
 	"Facebook": {
-		"FB_adstatus": false,
+		"FB_adstatus": true,
 		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
@@ -39,6 +39,6 @@
 	"AdDialog": true,
 	"BackAd": false,
 	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "1",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
