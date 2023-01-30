@@ -34,8 +34,8 @@
 		"Back_Inter_count":0,
 		"onResumeOpenAd": true
 	},
-	"NativeBlink": true,
-	"NativeBanner": true,
+	"NativeBlink": false,
+	"NativeBanner": false,
 	"AdDialog": true,
 	"BackAd": false,
 	"BackAdPlatform": "Facebook",
