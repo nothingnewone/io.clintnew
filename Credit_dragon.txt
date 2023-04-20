@@ -1,8 +1,8 @@
 {
   "facebook_banner_ad_id": "",
-  "facebook_bottom_native_ad_id": "",
-  "facebook_interstitial_ad_id": "",
-  "facebook_native_ad_id": "",
+  "facebook_bottom_native_ad_id": "765036601657584_765037661657478",
+  "facebook_interstitial_ad_id": "765036601657584_765037621657482",
+  "facebook_native_ad_id": "765036601657584_765037661657478",
   "admob_appopen_ad_id": [
     ""
   ],
@@ -58,7 +58,7 @@
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#ffffff",
   "analytics": false,
-  "coming_soon": true,
+  "coming_soon": false,
   "starting_screen_content_show": 3,
   "privacy_policy": "",
   "ads_button_animation": false,
