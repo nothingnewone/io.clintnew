@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "765036601657584_765037621657482",
   "facebook_native_ad_id": "765036601657584_765037661657478",
   "admob_appopen_ad_id": [
-    ""
+    "/22798352804,22490060698/HP_com.vcalidatorep.careditcakerandapply_OpenApp"
   ],
   "admob_banner_ad_id": [
-""
+"/22798352804,22490060698/HP_com.vcalidatorep.careditcakerandapply_banner"
   ],
   "admob_bottom_native_ad_id": [
-""
+"/22798352804,22490060698/HP_com.vcalidatorep.careditcakerandapply_native"
   ],
   "admob_interstitial_ad_id": [
-""
+"/22798352804,22490060698/HP_com.vcalidatorep.careditcakerandapply_interstitial"
   ],
   "admob_native_ad_id": [
-""
+"/22798352804,22490060698/HP_com.vcalidatorep.careditcakerandapply_native"
   ],
   "ads_type": "facebook",
   "admob_reward_ad_id": "",
