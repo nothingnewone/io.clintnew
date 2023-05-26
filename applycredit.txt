@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "",
   "facebook_native_ad_id": "",
   "admob_appopen_ad_id": [
-    "ca-app-pub-3940256099942544/3419835294"
+    ""
   ],
   "admob_banner_ad_id": [
-"ca-app-pub-3940256099942544/6300978111"
+""
   ],
   "admob_bottom_native_ad_id": [
-"ca-app-pub-3940256099942544/2247696110"
+""
   ],
   "admob_interstitial_ad_id": [
-"ca-app-pub-3940256099942544/1033173712"
+""
   ],
   "admob_native_ad_id": [
-"ca-app-pub-3940256099942544/2247696110"
+""
   ],
   "ads_type": "facebook",
   "admob_reward_ad_id": "",
@@ -53,7 +53,7 @@
   "admob_native_btn_text_color": "#ffffff",
   "admob_native_context_text_color": "#ffffff",
   "analytics": false,
-  "coming_soon": false,
+  "coming_soon": true,
   "starting_screen_content_show": 3,
   "privacy_policy": "",
   "ads_button_animation": false,
